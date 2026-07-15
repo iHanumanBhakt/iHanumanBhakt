@@ -13,9 +13,7 @@ Computer Science undergraduate student passionate about **Backend Development**,
 
 ---
 
-### 🏆 My GitHub Achievements
-
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=iHanumanBhakt&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Achievements
 
 * 🔴 **500+ Data Structures & Algorithms** problems solved across platforms.
 * 📈 **LeetCode**: Achieved a peak rank of **3,458 out of 30,000** participants in a Biweekly Contest.
@@ -66,8 +64,10 @@ Uncomment the line below once the GitHub Actions snake workflow runs successfull
 
 ### 📊 Telemetry & Analytics
 
-![Stats Card](https://github-readme-stats.vercel.app/api?username=iHanumanBhakt&show_icons=true&theme=tokyonight&border_radius=10)
+| GitHub Analytics | Top Programming Languages |
+| :---: | :---: |
+| ![Stats Card](https://github-readme-stats-anuraghazra.vercel.app/api?username=iHanumanBhakt&show_icons=true&theme=tokyonight&border_radius=10) | ![Langs Card](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=iHanumanBhakt&layout=compact&theme=tokyonight&border_radius=10) |
 
 <br>
 
-![Profile Views](https://komarev.com/normal-badge.html?username=iHanumanBhakt&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=iHanumanBhakt)
