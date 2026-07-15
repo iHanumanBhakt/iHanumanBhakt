@@ -6,10 +6,10 @@ Computer Science undergraduate student passionate about **Backend Development**,
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinrawat)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-rawat-744883282/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinrawat072@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/iHanumanBhakt/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iHanumanBhakt)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HanumanBhakt)
 
 ---
 
